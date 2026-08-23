@@ -22,7 +22,7 @@ A beginner-level API documentation sample demonstrating:
 - HTTP response codes
 - Error responses
 
-[📄 View API Documentation PDF](./API%20Documentation/04_API_Documentation_Employee_Directory_Sample.pdf)
+[📄 View API Documentation PDF](./API%20Documentation/API_Documentation_Employee_Directory_Sample.pdf)
 
 ---
 
@@ -39,7 +39,7 @@ A step-by-step internal user guide covering:
 - First-week follow-up
 - Completion criteria
 
-[📄 View User Guide PDF](./User%20Guides/02_User_Guide_New_Employee_Onboarding.pdf)
+[📄 View User Guide PDF](./User%20Guides/User_Guide_New_Employee_Onboarding.pdf)
 
 ---
 
@@ -56,7 +56,7 @@ A help-centre style article demonstrating:
 - Troubleshooting guidance
 - Scannable content structure
 
-[📄 View Knowledge Base PDF](./Knowledge%20Base/03_Knowledge_Base_Admin_Support.pdf)
+[📄 View Knowledge Base PDF](./Knowledge%20Base/Knowledge_Base_Admin_Support.pdf)
 
 ---
 
@@ -75,7 +75,7 @@ An SOP demonstrating documentation of:
 - Status definitions
 - Documentation standards
 
-[📄 View SOP PDF](./SOP/01_SOP_Office_Request_Process.pdf)
+[📄 View SOP PDF](./SOP/SOP_Office_Request_Process.pdf)
 
 ---
 
