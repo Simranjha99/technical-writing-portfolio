@@ -82,6 +82,6 @@ Contact
 
 Email: simranchaudhary99@gmail.com
 
-GitHub: "Simranjha99" (https://github.com/Simranjha99)
+GitHub:https://github.com/Simranjha99
 
 LinkedIn:https://www.linkedin.com/in/simran-jha-23a66435a
