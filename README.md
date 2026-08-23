@@ -1,87 +1,121 @@
-Technical Writing Portfolio
+# Technical Writing Portfolio
 
 Welcome to my technical writing portfolio.
 
-I am a detail-oriented professional transitioning into Technical Writing, API Documentation, Technical Content Writing, User Guides, and Knowledge Base documentation.
+I am a detail-oriented professional with experience in internal documentation, process coordination, employee onboarding, training, and cross-functional communication. I am building my career in Technical Writing, API Documentation, Technical Content Writing, User Guides, and Knowledge Base documentation.
 
-My professional experience includes internal documentation, process coordination, employee onboarding, training, cross-functional communication, scheduling, and administrative process support.
+## Portfolio Samples
 
-I am building on this experience to develop a career in technical writing and documentation.
+### 1. API Documentation
 
-Portfolio
+**Employee Directory API — REST API Documentation**
 
-API Documentation
-
-A REST API documentation project demonstrating:
+A beginner-level API documentation sample demonstrating:
 
 - API overview
+- Base URL
 - Authentication
-- Endpoints
-- Parameters
-- Request and response examples
-- HTTP status codes
-- Error handling
-- OpenAPI specification
+- REST endpoint documentation
+- Path parameters
+- Request examples
+- Response examples
+- HTTP response codes
+- Error responses
 
-Sample: "API Documentation" (./API%20Documentation)
-
----
-
-User Guides
-
-Step-by-step instructional documentation designed to help users understand and complete common processes.
-
-Sample: "User Guides" (./User%20Guides)
+[📄 View API Documentation PDF](./API%20Documentation/04_API_Documentation_Employee_Directory_Sample.pdf)
 
 ---
 
-Knowledge Base
+### 2. User Guide
 
-Task-oriented help content covering common questions, instructions, and support scenarios.
+**New Employee Onboarding — User Guide**
 
-Sample: "Knowledge Base" (./Knowledge%20Base)
+A step-by-step internal user guide covering:
+
+- Pre-joining preparation
+- First-day onboarding
+- Employee introductions
+- Access and equipment requirements
+- First-week follow-up
+- Completion criteria
+
+[📄 View User Guide PDF](./User%20Guides/02_User_Guide_New_Employee_Onboarding.pdf)
 
 ---
 
-Standard Operating Procedures
+### 3. Knowledge Base Article
 
-Process documentation demonstrating structured workflows, responsibilities, and documentation standards.
+**How to Request Administrative Support**
 
-Sample: "SOP" (./SOP)
+A help-centre style article demonstrating:
 
-Skills
+- Task-oriented writing
+- Clear prerequisites
+- Step-by-step instructions
+- Common questions
+- Troubleshooting guidance
+- Scannable content structure
+
+[📄 View Knowledge Base PDF](./Knowledge%20Base/03_Knowledge_Base_Admin_Support.pdf)
+
+---
+
+### 4. Standard Operating Procedure
+
+**Office Request & Coordination Process**
+
+An SOP demonstrating documentation of:
+
+- Request submission
+- Initial review
+- Assignment
+- Follow-up
+- Completion
+- Closure
+- Status definitions
+- Documentation standards
+
+[📄 View SOP PDF](./SOP/01_SOP_Office_Request_Process.pdf)
+
+---
+
+## Technical Writing Skills
 
 - Technical Documentation
 - API Documentation
+- REST API Documentation
 - User Guides
-- Knowledge Base Writing
-- SOP Documentation
-- Technical Content Writing
+- Knowledge Base Articles
+- Standard Operating Procedures
 - Process Documentation
 - Information Organization
+- Technical Content Writing
 - Professional Communication
 
-Career Focus
+## Career Focus
 
-I am currently seeking junior and entry-level opportunities in:
+I am seeking junior and entry-level opportunities in:
 
 - Technical Writing
 - API Documentation
-- Documentation
 - Technical Content Writing
+- Documentation
 - Knowledge Base / Help Centre Writing
+- User Documentation
 - Content Writing
 
 I am open to remote and hybrid opportunities.
 
-Portfolio Project Note
+## About These Samples
 
-Some portfolio projects are created for demonstration purposes to showcase documentation structure, clarity, and technical writing skills.
+These portfolio samples demonstrate my ability to organize information, write clear instructions, document processes, and present technical information in a structured and reader-friendly format.
 
-Contact
+The API documentation sample uses a fictional API and is intended only to demonstrate API documentation structure and writing skills.
 
-Email: simranchaudhary99@gmail.com
+## Contact
 
-GitHub:https://github.com/Simranjha99
+**Email:** simranchaudhary99@gmail.com
 
-LinkedIn:https://www.linkedin.com/in/simran-jha-23a66435a
+**GitHub:** https://github.com/Simranjha99
+
+**LinkedIn:** https://www.linkedin.com/in/simran-jha-23a66435a
